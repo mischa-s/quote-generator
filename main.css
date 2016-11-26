@@ -1,0 +1,22 @@
+.qgen {
+  background-color: rgb(145, 191, 236);
+  padding: 150px;
+}
+
+.quoteBox {
+  height: 10em;
+  width: 30em;
+  border-width: thick;
+  border-style: solid;
+  border-color: rgb(33, 73, 28);
+  background-color: rgb(198, 208, 219);
+  font-size: 3em;
+  font-family:sans-serif;
+  padding: 1em;
+  text-align: center;
+}
+#newQuote {
+  margin-top: 2em;
+  margin-left: 14em;
+  background-color: rgb(231, 221, 249)
+}
